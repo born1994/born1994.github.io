@@ -6,7 +6,28 @@
     <description>Recent content on Bayler&#39;s Mainpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate><atom:link href="https://born1994.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 18:07:16 +0600</lastBuildDate><atom:link href="https://born1994.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>明溪教育发展促进会</title>
+      <link>https://born1994.github.io/portfolio/mxjy/</link>
+      <pubDate>Sat, 12 Jun 2021 18:07:16 +0600</pubDate>
+      
+      <guid>https://born1994.github.io/portfolio/mxjy/</guid>
+      <description>laravel搭的.
+这里放个码，想了解可以扫码看看.</description>
+    </item>
+    
+    <item>
+      <title>融通地产惠军商户联盟</title>
+      <link>https://born1994.github.io/portfolio/rtdc/</link>
+      <pubDate>Thu, 13 May 2021 12:49:27 +0600</pubDate>
+      
+      <guid>https://born1994.github.io/portfolio/rtdc/</guid>
+      <description>这项目一期的平台群发功能没有使用起来、二期就来的挺突然。 公司终于招了一个前端来写页面了，老夫甚是欣喜，后面才发现是个大坑，不过经过我反复敲打，交付时间拿捏的准准的。
+二期小程序有红卡和绿卡两种用户身份，绿卡到合作商家消费可以专属小程序码享受优惠。 商家可以在小程序上填写入驻申请。
+这里放个码，想了解可以扫码看看</description>
+    </item>
+    
     <item>
       <title>华夏助残创业基金会</title>
       <link>https://born1994.github.io/portfolio/huaxia/</link>
@@ -20,7 +41,7 @@
     <item>
       <title>致珍堂网上预约平台</title>
       <link>https://born1994.github.io/portfolio/zzt/</link>
-      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 12:13:40 +0000</pubDate>
       
       <guid>https://born1994.github.io/portfolio/zzt/</guid>
       <description>预约流程和平时各大平台的流程相差不多，平台有数字虚拟金额和代币这里就说说4个客户端.
@@ -29,29 +50,6 @@
 客户二期还加了转发模块，药方可以直接转发给用户
 客户二期想把药品的货源控制在自己手里，又新增了药品库这个模块，医生开方前必须去药品库导入药品成为自己的药品库、专家审方也是用的医生药品库.
 写在最后：一开始这个项目是有振兴中医的感觉的，我开发也是带着这个信念的，后面郎中一天一改，一天多改渐渐脱离了这个信念，上线后也没有掀起大浪，现在大概就一个活跃医生使用着1/17的开方模块</description>
-    </item>
-    
-    <item>
-      <title>明溪教育发展促进会</title>
-      <link>https://born1994.github.io/portfolio/mxjy/</link>
-      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
-      <guid>https://born1994.github.io/portfolio/mxjy/</guid>
-      <description>laravel搭的.
-这里放个码，想了解可以扫码看看.
-qrcode: images/portfolio/portfolio-1.png</description>
-    </item>
-    
-    <item>
-      <title>惠军商户联盟</title>
-      <link>https://born1994.github.io/portfolio/rtdc/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://born1994.github.io/portfolio/rtdc/</guid>
-      <description>这项目一期的平台群发功能没有使用起来、二期就来的挺突然。 公司终于招了一个前端来写页面了，老夫甚是欣喜，后面才发现是个大坑，不过经过我反复敲打，交付时间拿捏的准准的。
-二期小程序有红卡和绿卡两种用户身份，绿卡到合作商家消费可以专属小程序码享受优惠。 商家可以在小程序上填写入驻申请。
-这里放个码，想了解可以扫码看看
-qrcode: images/portfolio/portfolio-1.png</description>
     </item>
     
   </channel>
